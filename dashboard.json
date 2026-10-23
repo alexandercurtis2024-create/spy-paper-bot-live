@@ -1,11 +1,11 @@
 {
   "banner": "PAPER ONLY \u2014 SIMULATED SPY BOT \u00b7 NO REAL FUNDS \u00b7 NO BROKERAGE LINK",
-  "broker": "sim",
+  "broker": "alpaca-paper",
   "cash": 1000.0,
   "closed_trades": 0,
   "equity": 1000.0,
   "last_price": 763.96,
-  "last_updated": "2026-10-22T23:12:48.512059-04:00",
+  "last_updated": "2026-10-22T23:13:14.468925-04:00",
   "losses": 0,
   "open_position": null,
   "paper_only": true,
