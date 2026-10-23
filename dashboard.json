@@ -1,0 +1,33 @@
+{
+  "banner": "PAPER ONLY \u2014 SIMULATED SPY BOT \u00b7 NO REAL FUNDS \u00b7 NO BROKERAGE LINK",
+  "broker": "sim",
+  "cash": 1000.0,
+  "closed_trades": 0,
+  "equity": 1000.0,
+  "last_price": 763.96,
+  "last_updated": "2026-10-22T22:56:12.035385-04:00",
+  "losses": 0,
+  "open_position": null,
+  "paper_only": true,
+  "pnl_pct": 0.0,
+  "realized_pnl": 0.0,
+  "regime": {
+    "atr14": 7.368895878814145,
+    "last_bar_date": "2026-10-22",
+    "last_close": 763.9600219726562,
+    "risk_on": true,
+    "rsi14": 45.1715770161726,
+    "rsi_prov": 45.17155882702532,
+    "sma200": 726.6543997192383,
+    "sma50": 768.1665966796875
+  },
+  "status": "market_closed",
+  "symbol": "SPY",
+  "unrealized_pnl": 0.0,
+  "versions": {
+    "config_hash": "7e38c11ec8c1",
+    "costs": "costs_v1",
+    "strategy": "strategy_v1"
+  },
+  "wins": 0
+}
